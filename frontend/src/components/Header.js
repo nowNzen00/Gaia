@@ -1,11 +1,11 @@
 import "./Header.css";
-import "./Hamburger.js";
 import AddIcon from "@mui/icons-material/Add";
+import MenuIcon from "@mui/icons-material/Menu";
 
 function Header() {
   return (
     <div className="Header">
-      <Header />
+      <MenuIcon />
       <h1>Gaia</h1>
       <AddIcon />
     </div>
