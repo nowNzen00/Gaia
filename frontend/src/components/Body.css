@@ -1,0 +1,26 @@
+.Body {
+  height: 60vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.city-name {
+  font-size: 75px;
+}
+.date {
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+.temperature {
+  font-size: 100px;
+  margin-bottom: 60px;
+}
+.weather {
+  font-size: 50px;
+}
+.highest-lowest {
+  font-size: 30px;
+}
